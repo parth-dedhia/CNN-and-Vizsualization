@@ -17,13 +17,15 @@ To solve this problem people came up with Neural Network (more on neural network
 
 # CONVOLUTION NEURAL NETWORK
 
+I will not be explaining how convolution networks work. There are many blogs about them. Check them out.I will hereby be focusing on the visualization part of it.
+
 Recently they have been a state of art in computer vision. These networks have given extra ordinary results in classifying hundred objects with an accuracy better then humans (Imagenet competition)
 They are being implemented almost everywhere around you
 - Right from Google's self driving car to Google Lens 
 - Bidu's System ([check this out](https://www.youtube.com/watch?v=wr4rx0Spihs))
 - Googles photos face detection
+
 These are the one that are on top of my mind. There are many many other examples.
 
-
-Many people have worked with CNN using [Keras](https://keras.io/) , [Tesnorflow](https://www.tensorflow.org/) , [pytorch](https://pytorch.org/). Here we will start with visualization of of CNN and how it works.
-I have trained the model using MNIST dataset (Hello World for programmers :P) and I have tried to provide output of various layers for understanding how this model is working. We will also see the filters that are applied to see how the filters affect trhe output
+Many people have worked with CNN using [Keras](https://keras.io/) , [Tesnorflow](https://www.tensorflow.org/) , [pytorch](https://pytorch.org/) and many other tools. Here we will start with visualization of of CNN and how it works.
+I have trained the model using MNIST dataset (Hello World for programmers :P) and I have tried to provide output of various layers for understanding how this model is working. We will also see the filters that are applied to see how the filters affect the output
