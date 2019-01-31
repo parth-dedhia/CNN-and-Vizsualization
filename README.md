@@ -28,4 +28,4 @@ They are being implemented almost everywhere around you
 These are the one that are on top of my mind. There are many many other examples.
 
 Many people have worked with CNN using [Keras](https://keras.io/) , [Tesnorflow](https://www.tensorflow.org/) , [pytorch](https://pytorch.org/) and many other tools. Here we will start with visualization of of CNN and how it works.
-I have trained the model using MNIST dataset (Hello World for programmers :P) and I have tried to provide output of various layers for understanding how this model is working. We will also see the filters that are applied to see how the filters affect the output
+I have trained the model using MNIST dataset (Hello World for Deep learning programmers :P) and I have tried to provide output of various layers for understanding how this model is working. We will also see the filters that are applied to see how the filters affect the output
