@@ -13,7 +13,9 @@ Here we will see how computers can learn just like humans by giving them the exa
 
 Yepiee !!!!! Problem solved !!!!!
 
-To solve this problem people came up with Neural Network (more on neural networks [here](https://www.youtube.com/watch?v=aircAruvnKk))
+# Neural Network
+
+Neural Network have been developed just keeping our brain in mind. Just like the brain each neuron takes a decision and based on that decision we decide our action. We take the input from input neurons and depending on the type of input some of the other neurons are activated and some are not(approaching the first hidden layer). Similarly we can have many such layers that will help us to make more superior decision , based on previous decision.One can think of it as if we were to take some decision in life, so just like we eliminate some basic things as being not relevant and then take the relevant features and work on them. Kepping this process going on and then finally coming to a conclusion. This removal of irrelavant information is done by the weights associated between the layers. So one can see just like the brain each neuron think about how things are working and how relevant the information is and weights decide to take them to other neurons. (more on neural networks [here](https://www.youtube.com/watch?v=aircAruvnKk))
 
 # CONVOLUTION NEURAL NETWORK
 
