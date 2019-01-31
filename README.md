@@ -1,10 +1,6 @@
 # CNN-and-Vizsualization
 Lets remove the blackbox involved in deep learning
 
-
-Programming , oh !!!
-That's really old now
-
 Here we will see how computers can learn just like humans by giving them the examples. 
 * Programming was writing as set of rules for computer in programming language and get work done
 * Finding the exact rule was always a tough job as we need to manually check and dry run for all the test cases
@@ -18,9 +14,10 @@ Yepiee !!!!! Problem solved !!!!!
 Lets see how neural network work 
 
 * Neural Network have been developed just keeping our brain in mind. 
-* Just like the brain each neuron takes a decision and based on that decision we decide our action. 
-* We take the input from input neurons (in real life sensory organs) and depending on the type of input some of the other neurons are activated and some are not ( approaching the first hidden layer ). 
-* Similarly we can have many such layers that will help us to make more superior decision , based on previous decision.One can think of it as if we were to take some decision in life, so just like we eliminate some basic things as being not relevant and then take the relevant features and work on them. Kepping this process going on and then finally coming to a conclusion. 
+* In our brain each neuron takes a decision and based on the decisions made by all the neurons we take an action
+* We take the input from input neurons (in real life sensory organs) and depending on the type of input some of the other neurons which are away from there input neurons are activated ( approaching the first hidden layer ). 
+* Similarly we can have many such layers of neurons that will help us to make more superior decision , based on these decision.
+* One can think of it as if we were to take some decision in life, so just like we eliminate some basic things as being not relevant and then take the relevant features and work on them. Kepping this process going on and then finally coming to a conclusion. 
 * This removal of irrelavant information is done by the weights associated between the layers. 
 * So one can see just like the brain each neuron think about how things are working and how relevant the information is and weights decide to take them to other neurons. (more on neural networks [here](https://www.youtube.com/watch?v=aircAruvnKk))
 
