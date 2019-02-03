@@ -39,4 +39,4 @@ These are the one that are on top of my mind. There are many many other examples
 
 OpenCV is an open source project mainly used for image preprocessing. One can read more about OpenCV from [here](https://opencv.org/)
 
-1. The folder eyeblinker contains a very simple open cv implementation. Haar cascade is used to detect the face and the eye. If the eye is detected in the region of the face then the counter value is updated based on whether the eyes are open or closed
+1. The folder [eyeblinkcounter](https://github.com/parth-dedhia/Deep--Learning/tree/master/EYE_BLINK_COUNTER) contains a very simple open cv implementation. Haar cascade is used to detect the face and the eye. If the eye is detected in the region of the face then the counter value is updated based on whether the eyes are open or closed
