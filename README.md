@@ -33,5 +33,10 @@ They are being implemented almost everywhere around you
 
 These are the one that are on top of my mind. There are many many other examples.
 
-Many people have worked with CNN using [Keras](https://keras.io/) , [Tesnorflow](https://www.tensorflow.org/) , [pytorch](https://pytorch.org/) and many other tools. Here we will start with visualization of of CNN and how it works.
-I have trained the model using MNIST dataset (Hello World for Deep learning programmers :P) and I have tried to provide output of various layers for understanding how this model is working. We will also see the filters that are applied to see how the filters affect the output
+1. Many people have worked with CNN using [Keras](https://keras.io/) , [Tesnorflow](https://www.tensorflow.org/) , [pytorch](https://pytorch.org/) and many other tools. Here we will start with visualization of of CNN and how it works. The MNIST folder of this repository contains a CNN model and I have tried to provide output of various layers for understanding how this model is working. We will also see the filters that are applied to see how the filters affect the output
+
+# OPENCV EYE BLINK COUNTER
+
+OpenCV is an open source project mainly used for image preprocessing. One can read more about OpenCV from [here](https://opencv.org/)
+
+1. The folder eyeblinker contains a very simple open cv implementation. Haar cascade is used to detect the face and the eye. If the eye is detected in the region of the face then the counter value is updated based on whether the eyes are open or closed
